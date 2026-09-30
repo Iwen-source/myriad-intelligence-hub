@@ -73,7 +73,7 @@ JWT Bearer Token 认证 | CORS 跨域允许 | JSON 数据交互
 | DataInitializer.java | 数据初始化 |
 
 - **Security**: 关闭CSRF · 无状态Session · /auth /public /h2-console 放行 · JWT Filter
-- **DataInit**: 🟡 700+行种子数据 · 7大模块初始化 · 默认admin/123456
+- **DataInit**: 🟡 700+行种子数据 · 7大模块初始化 · 默认admin/admin123456
 
 ### 🛡️ 安全层 (security)
 

@@ -75,19 +75,17 @@
 ### 1. 克隆项目
 
 ```bash
-git clone <repository-url>
-cd ai-empowerment-platform
+git clone https://github.com/Iwen-source/myriad-intelligence-hub.git
+cd myriad-intelligence-hub
 ```
 
 ### 2. 配置数据库
 
-```bash
-# 创建MySQL数据库
-mysql -u root -p -e "CREATE DATABASE ai_empowerment DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;"
+数据库名固定为 **`ai_empowerment_platform`**。表结构由 JPA 在启动时自动创建（`ddl-auto=update`），**无需手动导入 SQL**。
 
-# 导入表结构（scripts/目录下）
-mysql -u root -p ai_empowerment < backend/scripts/schema.sql
-mysql -u root -p ai_empowerment < backend/scripts/data.sql
+```bash
+# 只需创建一个空库，表会在后端启动时自动生成
+mysql -u root -p -e "CREATE DATABASE IF NOT EXISTS ai_empowerment_platform DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;"
 ```
 
 ### 3. 配置环境变量
@@ -114,11 +112,11 @@ cp backend/.env.example backend/.env
 
 ```bash
 cd backend
-mvn clean install -DskipTests
-mvn spring-boot:run -Dspring-boot.run.profiles=dev
+mvn spring-boot:run
 ```
 
-启动后访问：`http://localhost:8080`
+- 后端端口 **8088**，接口前缀 `/api`（即 `http://localhost:8088/api`）
+- 首次启动会自动建表，并**自动创建默认账号**（见下方「默认账号」）
 
 ### 5. 启动前端
 
@@ -128,15 +126,24 @@ npm install
 npm run dev
 ```
 
-启动后访问：`http://localhost:5173`
+启动后访问：**`http://localhost:3000`**
 
-### 6. 访问API文档
+### 6. 默认账号（克隆运行后即可登录）
 
-```bash
-# 后端启动后
-http://localhost:8080/swagger-ui/index.html
-http://localhost:8080/v3/api-docs
-```
+后端首次启动时，`UserDataInitializer` 会自动写入以下演示账号（仅在不存在时创建，不会覆盖你修改过的密码）：
+
+| 账号 | 密码 | 角色 |
+|------|----------|-------|
+| `admin` | `admin123456` | ADMIN |
+| `testuser` | `test123` | USER |
+
+> ⚠️ 演示账号，生产环境请立即改密；管理员初始口令可用环境变量 `ADMIN_INIT_PASSWORD` 覆盖。
+> 也可以在登录页点「注册」自助创建账号（新账号默认 `USER` 角色）。
+
+### 7. 访问API文档
+
+- Swagger UI：`http://localhost:8088/api/swagger-ui/index.html`
+- OpenAPI JSON：`http://localhost:8088/api/v3/api-docs`
 
 ---
 

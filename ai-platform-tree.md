@@ -25,7 +25,7 @@ backend/
     ├── config/
     │   ├── CorsConfig.java              CORS跨域 · allowedOriginPatterns=*
     │   ├── SecurityConfig.java          SecurityFilterChain · 无状态Session · JWT Filter · BCryptPasswordEncoder
-    │   └── DataInitializer.java         700+行 · 8大模块种子数据 · 默认管理员 admin/123456
+    │   └── DataInitializer.java         700+行 · 8大模块种子数据 · 默认管理员 admin/admin123456
     │
     ├── security/
     │   ├── JwtTokenProvider.java        HMAC-SHA256密钥 · generateToken · validateToken · 24h过期

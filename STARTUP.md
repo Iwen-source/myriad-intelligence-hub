@@ -26,20 +26,20 @@ net start MySQL80        # 如果 MySQL 没启动
 ### 2️⃣ 启动后端（终端 1）
 
 ```bash
-cd E:\毕业设计\ai-empowerment-platform\backend
+cd backend
 mvn spring-boot:run -DskipTests
 ```
 
 ✅ 看到以下日志即成功：
 ```
 Started AiEmpowermentApplication in 3.6 seconds
-已确保管理员账号: admin / admin123456
+已创建管理员账号 admin（初始口令来自环境变量 ADMIN_INIT_PASSWORD）
 ```
 
 ### 3️⃣ 启动前端（终端 2）
 
 ```bash
-cd E:\毕业设计\ai-empowerment-platform\frontend
+cd frontend
 npm run dev
 ```
 
@@ -81,7 +81,7 @@ VITE v5.4.21  ready in 3.0 s
 ## 项目目录
 
 ```
-E:\毕业设计\ai-empowerment-platform
+myriad-intelligence-hub
 ├── backend/          Spring Boot 3.2 后端 (Java 17)
 │   └── src/main/java/com/aiempowerment/platform/
 │       ├── controller/     12 个 REST 控制器
