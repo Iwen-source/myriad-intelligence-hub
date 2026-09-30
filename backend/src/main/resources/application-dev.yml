@@ -1,0 +1,29 @@
+# ========================================
+# 开发环境配置 - 覆盖 application.yml
+# ========================================
+# 激活方式: spring.profiles.active=dev
+# IDE中配置VM参数: -Dspring.profiles.active=dev
+# 或命令行: --spring.profiles.active=dev
+
+spring:
+  datasource:
+    # 开发环境可配置为H2内存数据库（无需安装MySQL）
+    # url: jdbc:h2:mem:ai_empowerment;DB_CLOSE_ON_EXIT=FALSE
+    # driver-class-name: org.h2.Driver
+    # 或继续使用MySQL并指定开发数据库
+    url: jdbc:mysql://localhost:3306/ai_empowerment_platform_dev?useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true&characterEncoding=UTF-8
+
+  jpa:
+    show-sql: true  # 开发环境打印SQL
+
+  h2:
+    console:
+      enabled: true  # H2控制台: http://localhost:8088/api/h2-console
+      path: /h2-console
+
+# 日志
+logging:
+  level:
+    com.aiempowerment: debug
+    org.springframework.security: debug
+    org.hibernate.SQL: debug

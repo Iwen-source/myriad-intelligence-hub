@@ -1,0 +1,26 @@
+{
+  "model_file": "learning_path_recommender.pkl",
+  "n_paths": 10,
+  "n_skills": 77,
+  "model_type": "cosine_similarity + nearest_neighbors",
+  "path_names": {
+    "ai_ml_engineer": "AI/ML \u5de5\u7a0b\u5e08",
+    "full_stack_developer": "\u5168\u6808\u5f00\u53d1\u5de5\u7a0b\u5e08",
+    "data_scientist": "\u6570\u636e\u79d1\u5b66\u5bb6",
+    "devops_engineer": "DevOps \u5de5\u7a0b\u5e08",
+    "backend_engineer": "\u540e\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08",
+    "frontend_engineer": "\u524d\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08",
+    "data_engineer": "\u6570\u636e\u5de5\u7a0b\u5e08",
+    "ai_researcher": "AI \u7814\u7a76\u5458",
+    "cybersecurity_analyst": "\u7f51\u7edc\u5b89\u5168\u5206\u6790\u5e08",
+    "product_manager": "\u6280\u672f\u4ea7\u54c1\u7ecf\u7406"
+  },
+  "categories": [
+    "\u5f00\u53d1",
+    "AI",
+    "\u8fd0\u7ef4",
+    "\u6570\u636e",
+    "\u4ea7\u54c1",
+    "\u5b89\u5168"
+  ]
+}

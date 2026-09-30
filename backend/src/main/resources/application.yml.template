@@ -1,0 +1,69 @@
+server:
+  port: 8088
+  servlet:
+    context-path: /api
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ai_empowerment_platform?useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true&characterEncoding=UTF-8
+    username: root
+    password: ${DB_PASSWORD:123456}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      maximum-pool-size: 10
+      minimum-idle: 5
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+        format_sql: true
+    open-in-view: false
+
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Asia/Shanghai
+    default-property-inclusion: non_null
+
+  # Redis 缓存（可选，启用 spring.profiles.active=redis 时生效）
+  redis:
+    host: ${REDIS_HOST:localhost}
+    port: ${REDIS_PORT:6379}
+    password: ${REDIS_PASSWORD:}
+    timeout: 5000ms
+    lettuce:
+      pool:
+        max-active: 8
+        max-idle: 4
+        min-idle: 1
+
+# JWT Configuration
+# ⚠️ 安全警告：生产环境必须通过环境变量覆盖以下默认值！
+# 设置环境变量 JWT_SECRET 为安全随机字符串（推荐: openssl rand -base64 64）
+jwt:
+  secret: ${JWT_SECRET:DEV_PLACEHOLDER_CHANGE_ME_IN_PRODUCTION}
+  expiration: ${JWT_EXPIRATION:86400000}
+
+# AI Model Configuration
+# ⚠️ 安全警告：生产环境必须通过环境变量注入真实的 API Key！
+# 设置环境变量 DEEPSEEK_API_KEY（Linux: export DEEPSEEK_API_KEY='your-key'）
+aimodel:
+  api-url: ${DEEPSEEK_API_URL:https://api.deepseek.com/v1/chat/completions}
+  api-key: ${DEEPSEEK_API_KEY:DEV_PLACEHOLDER_CHANGE_ME}
+  model: ${DEEPSEEK_MODEL:deepseek-chat}
+
+# Python ML Server Configuration
+python:
+  ml:
+    server-url: ${PYTHON_ML_URL:http://localhost:5001}
+    connect-timeout: 2000
+    read-timeout: 3000
+
+# Logging
+logging:
+  level:
+    com.aiempowerment: debug
+    org.springframework.security: warn

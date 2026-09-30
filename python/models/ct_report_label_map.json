@@ -1,0 +1,16 @@
+{
+  "0": "ICH",
+  "1": "IPH",
+  "2": "IVH",
+  "3": "SDH",
+  "4": "EDH",
+  "5": "SAH",
+  "6": "LeftBleed",
+  "7": "RightBleed",
+  "8": "ChronicBleed",
+  "9": "Fracture",
+  "10": "CalvarialFracture",
+  "11": "OtherFracture",
+  "12": "MassEffect",
+  "13": "MidlineShift"
+}

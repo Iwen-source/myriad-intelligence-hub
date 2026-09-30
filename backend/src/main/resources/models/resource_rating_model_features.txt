@@ -1,0 +1,14 @@
+downloads
+upload_days_ago
+resource_count
+type_习题
+type_代码
+type_文档
+type_视频
+type_课件
+subj_化学
+subj_数学
+subj_物理
+subj_生物
+subj_英语
+subj_计算机

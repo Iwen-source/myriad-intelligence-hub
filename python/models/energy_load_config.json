@@ -1,0 +1,28 @@
+{
+  "seq_len": 48,
+  "horizon": 24,
+  "n_features": 14,
+  "features": [
+    "load",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos",
+    "is_weekend",
+    "season",
+    "temperature",
+    "load_lag_1",
+    "load_lag_24",
+    "load_lag_48",
+    "load_lag_168",
+    "load_rolling_7d",
+    "load_rolling_24h"
+  ],
+  "n_days": 1200,
+  "n_samples": 28560,
+  "mae": 4.55,
+  "mape": 5.88,
+  "r2": 0.9248,
+  "model_type": "pytorch_lstm",
+  "model_file": "energy_load_lstm.pth"
+}

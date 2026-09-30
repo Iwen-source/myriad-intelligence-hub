@@ -1,0 +1,5858 @@
+{
+  "CQ500-CT-1": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-1.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-10": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-10.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-100": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-100.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 57,
+    "volume_shape": [
+      57,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-101": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-101.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-102": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-102.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-103": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-103.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-104": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-104.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 112,
+    "volume_shape": [
+      112,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-105": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-105.nii.gz",
+    "series_name": "CT I To S",
+    "dicom_count": 232,
+    "volume_shape": [
+      232,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-106": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-106.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-107": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-107.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-108": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-108.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-109": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-109.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-11": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-11.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-110": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-110.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-111": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-111.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 272,
+    "volume_shape": [
+      272,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-112": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-112.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 55,
+    "volume_shape": [
+      55,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-113": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-113.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 272,
+    "volume_shape": [
+      272,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-114": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-114.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 55,
+    "volume_shape": [
+      55,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-115": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-115.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 55,
+    "volume_shape": [
+      55,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-116": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-116.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 42,
+    "volume_shape": [
+      42,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-117": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-117.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 233,
+    "volume_shape": [
+      233,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-118": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-118.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 49,
+    "volume_shape": [
+      49,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-119": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-119.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 33,
+    "volume_shape": [
+      33,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-12": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-12.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-121": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-121.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-122": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-122.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-123": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-123.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-124": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-124.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 232,
+    "volume_shape": [
+      232,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-125": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-125.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 48,
+    "volume_shape": [
+      48,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-126": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-126.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 235,
+    "volume_shape": [
+      235,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-127": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-127.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 44,
+    "volume_shape": [
+      44,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-128": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-128.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-129": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-129.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-13": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-13.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-130": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-130.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-131": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-131.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 49,
+    "volume_shape": [
+      49,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-132": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-132.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-133": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-133.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 53,
+    "volume_shape": [
+      53,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-134": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-134.nii.gz",
+    "series_name": "CT HELICAL",
+    "dicom_count": 396,
+    "volume_shape": [
+      396,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-135": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-135.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 251,
+    "volume_shape": [
+      251,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-136": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-136.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-137": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-137.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-138": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-138.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-139": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-139.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-14": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-14.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 51,
+    "volume_shape": [
+      51,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-140": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-140.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-141": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-141.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-142": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-142.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-143": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-143.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 59,
+    "volume_shape": [
+      59,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-144": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-144.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-145": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-145.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 68,
+    "volume_shape": [
+      68,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-146": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-146.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 233,
+    "volume_shape": [
+      233,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-147": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-147.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-148": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-148.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-149": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-149.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-15": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-15.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-150": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-150.nii.gz",
+    "series_name": "CT 55mm Contrast",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-151": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-151.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 55,
+    "volume_shape": [
+      55,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-152": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-152.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-153": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-153.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 166,
+    "volume_shape": [
+      166,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-154": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-154.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-155": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-155.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-156": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-156.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 161,
+    "volume_shape": [
+      161,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-157": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-157.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 53,
+    "volume_shape": [
+      53,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-158": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-158.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 291,
+    "volume_shape": [
+      291,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-159": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-159.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-16": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-16.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 186,
+    "volume_shape": [
+      186,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-160": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-160.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 169,
+    "volume_shape": [
+      169,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-161": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-161.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 47,
+    "volume_shape": [
+      47,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-162": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-162.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 192,
+    "volume_shape": [
+      192,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-164": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-164.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-165": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-165.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-166": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-166.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-167": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-167.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-168": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-168.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 166,
+    "volume_shape": [
+      166,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-169": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-169.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 54,
+    "volume_shape": [
+      54,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-17": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-17.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-170": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-170.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 53,
+    "volume_shape": [
+      53,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-171": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-171.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 18,
+    "volume_shape": [
+      18,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-172": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-172.nii.gz",
+    "series_name": "CT 3.753.75mm Plain",
+    "dicom_count": 69,
+    "volume_shape": [
+      69,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-173": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-173.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-174": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-174.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-175": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-175.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 28,
+    "volume_shape": [
+      28,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-176": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-176.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 67,
+    "volume_shape": [
+      67,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-177": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-177.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-178": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-178.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 208,
+    "volume_shape": [
+      208,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-179": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-179.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-18": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-18.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-180": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-180.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-181": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-181.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-182": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-182.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-183": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-183.nii.gz",
+    "series_name": "CT 1.25",
+    "dicom_count": 176,
+    "volume_shape": [
+      176,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-184": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-184.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-185": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-185.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-186": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-186.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-187": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-187.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-188": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-188.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-189": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-189.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 40,
+    "volume_shape": [
+      40,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-19": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-19.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 230,
+    "volume_shape": [
+      230,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-190": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-190.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-191": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-191.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 33,
+    "volume_shape": [
+      33,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-192": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-192.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-193": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-193.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-194": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-194.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 233,
+    "volume_shape": [
+      233,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-195": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-195.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-196": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-196.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-197": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-197.nii.gz",
+    "series_name": "CT Plain",
+    "dicom_count": 21,
+    "volume_shape": [
+      21,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-198": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-198.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-199": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-199.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 51,
+    "volume_shape": [
+      51,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-2": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-2.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-20": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-20.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-200": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-200.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-201": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-201.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 186,
+    "volume_shape": [
+      186,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-202": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-202.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 259,
+    "volume_shape": [
+      259,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-203": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-203.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 53,
+    "volume_shape": [
+      53,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-204": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-204.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-205": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-205.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-206": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-206.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 146,
+    "volume_shape": [
+      146,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-207": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-207.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-208": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-208.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-209": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-209.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 54,
+    "volume_shape": [
+      54,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-21": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-21.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 29,
+    "volume_shape": [
+      29,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-210": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-210.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 55,
+    "volume_shape": [
+      55,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-211": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-211.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 96,
+    "volume_shape": [
+      96,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-212": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-212.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-213": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-213.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-214": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-214.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-215": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-215.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 244,
+    "volume_shape": [
+      244,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-216": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-216.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-217": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-217.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-218": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-218.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 207,
+    "volume_shape": [
+      207,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-219": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-219.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-22": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-22.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-220": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-220.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 272,
+    "volume_shape": [
+      272,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-221": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-221.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 244,
+    "volume_shape": [
+      244,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-222": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-222.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 29,
+    "volume_shape": [
+      29,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-223": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-223.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 204,
+    "volume_shape": [
+      204,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-224": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-224.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 52,
+    "volume_shape": [
+      52,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-225": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-225.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 251,
+    "volume_shape": [
+      251,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-226": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-226.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-227": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-227.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-228": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-228.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 253,
+    "volume_shape": [
+      253,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-229": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-229.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-23": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-23.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 225,
+    "volume_shape": [
+      225,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-230": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-230.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 226,
+    "volume_shape": [
+      226,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-231": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-231.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-232": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-232.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-233": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-233.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-234": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-234.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-235": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-235.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 40,
+    "volume_shape": [
+      40,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-236": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-236.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 76,
+    "volume_shape": [
+      76,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-237": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-237.nii.gz",
+    "series_name": "CT PLAIN",
+    "dicom_count": 63,
+    "volume_shape": [
+      33,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-238": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-238.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-239": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-239.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-24": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-24.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-240": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-240.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 53,
+    "volume_shape": [
+      53,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-241": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-241.nii.gz",
+    "series_name": "CT PLAIN",
+    "dicom_count": 37,
+    "volume_shape": [
+      37,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-242": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-242.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-243": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-243.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-244": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-244.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 84,
+    "volume_shape": [
+      84,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-245": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-245.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-246": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-246.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-247": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-247.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 51,
+    "volume_shape": [
+      51,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-248": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-248.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 128,
+    "volume_shape": [
+      128,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-249": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-249.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-25": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-25.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-250": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-250.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 120,
+    "volume_shape": [
+      120,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-251": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-251.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 272,
+    "volume_shape": [
+      272,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-252": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-252.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 33,
+    "volume_shape": [
+      33,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-253": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-253.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-254": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-254.nii.gz",
+    "series_name": "CT Plain",
+    "dicom_count": 29,
+    "volume_shape": [
+      29,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-255": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-255.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-256": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-256.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-257": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-257.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-258": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-258.nii.gz",
+    "series_name": "CT Plain",
+    "dicom_count": 34,
+    "volume_shape": [
+      34,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-259": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-259.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 46,
+    "volume_shape": [
+      46,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-26": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-26.nii.gz",
+    "series_name": "CT C",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-260": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-260.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-261": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-261.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 33,
+    "volume_shape": [
+      33,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-262": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-262.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-263": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-263.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 272,
+    "volume_shape": [
+      272,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-264": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-264.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 55,
+    "volume_shape": [
+      55,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-265": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-265.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 221,
+    "volume_shape": [
+      221,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-266": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-266.nii.gz",
+    "series_name": "CT 1.25MM",
+    "dicom_count": 192,
+    "volume_shape": [
+      192,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-267": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-267.nii.gz",
+    "series_name": "CT C",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-268": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-268.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-269": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-269.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-27": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-27.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-270": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-270.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-271": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-271.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-272": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-272.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 146,
+    "volume_shape": [
+      146,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-273": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-273.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 128,
+    "volume_shape": [
+      128,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-274": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-274.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-275": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-275.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 28,
+    "volume_shape": [
+      28,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-276": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-276.nii.gz",
+    "series_name": "CT PRE CONTRAST THIN",
+    "dicom_count": 233,
+    "volume_shape": [
+      233,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-277": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-277.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 128,
+    "volume_shape": [
+      128,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-278": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-278.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-279": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-279.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 16,
+    "volume_shape": [
+      16,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-28": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-28.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-280": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-280.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 56,
+    "volume_shape": [
+      56,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-281": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-281.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-282": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-282.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 132,
+    "volume_shape": [
+      132,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-283": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-283.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-284": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-284.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-285": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-285.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-286": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-286.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-287": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-287.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-288": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-288.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 55,
+    "volume_shape": [
+      55,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-289": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-289.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 233,
+    "volume_shape": [
+      233,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-29": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-29.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-290": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-290.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-291": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-291.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-292": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-292.nii.gz",
+    "series_name": "CT C",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-293": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-293.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-294": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-294.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-295": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-295.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 53,
+    "volume_shape": [
+      53,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-296": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-296.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 270,
+    "volume_shape": [
+      270,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-297": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-297.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-298": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-298.nii.gz",
+    "series_name": "CT Thin Bone",
+    "dicom_count": 413,
+    "volume_shape": [
+      413,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-299": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-299.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-3": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-3.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-30": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-30.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-300": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-300.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-301": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-301.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-302": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-302.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-303": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-303.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-304": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-304.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 55,
+    "volume_shape": [
+      55,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-305": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-305.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 44,
+    "volume_shape": [
+      44,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-306": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-306.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 56,
+    "volume_shape": [
+      56,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-307": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-307.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 21,
+    "volume_shape": [
+      21,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-308": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-308.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-309": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-309.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-31": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-31.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-310": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-310.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-311": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-311.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-312": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-312.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-313": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-313.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-314": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-314.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-315": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-315.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 53,
+    "volume_shape": [
+      53,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-316": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-316.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-317": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-317.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 215,
+    "volume_shape": [
+      215,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-318": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-318.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 40,
+    "volume_shape": [
+      40,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-319": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-319.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-32": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-32.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-320": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-320.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-321": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-321.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-322": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-322.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 54,
+    "volume_shape": [
+      54,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-323": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-323.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-324": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-324.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-325": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-325.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-326": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-326.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-327": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-327.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 174,
+    "volume_shape": [
+      174,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-328": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-328.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-329": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-329.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 98,
+    "volume_shape": [
+      98,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-33": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-33.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 258,
+    "volume_shape": [
+      258,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-330": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-330.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 33,
+    "volume_shape": [
+      33,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-331": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-331.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 188,
+    "volume_shape": [
+      188,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-332": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-332.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 72,
+    "volume_shape": [
+      72,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-333": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-333.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-334": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-334.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 62,
+    "volume_shape": [
+      62,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-335": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-335.nii.gz",
+    "series_name": "CT Plain",
+    "dicom_count": 28,
+    "volume_shape": [
+      28,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-336": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-336.nii.gz",
+    "series_name": "CT POST CONTRAST",
+    "dicom_count": 34,
+    "volume_shape": [
+      34,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-337": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-337.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-338": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-338.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 112,
+    "volume_shape": [
+      112,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-339": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-339.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 181,
+    "volume_shape": [
+      181,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-34": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-34.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-340": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-340.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-341": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-341.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 208,
+    "volume_shape": [
+      208,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-342": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-342.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-343": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-343.nii.gz",
+    "series_name": "CT Thin Plain",
+    "dicom_count": 249,
+    "volume_shape": [
+      249,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-344": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-344.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-345": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-345.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 645,
+    "volume_shape": [
+      645,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-346": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-346.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-347": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-347.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-348": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-348.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 219,
+    "volume_shape": [
+      219,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-349": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-349.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 42,
+    "volume_shape": [
+      42,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-35": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-35.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-350": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-350.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 197,
+    "volume_shape": [
+      197,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-351": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-351.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-352": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-352.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 54,
+    "volume_shape": [
+      54,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-353": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-353.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 29,
+    "volume_shape": [
+      29,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-354": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-354.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 141,
+    "volume_shape": [
+      141,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-355": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-355.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 38,
+    "volume_shape": [
+      38,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-356": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-356.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-357": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-357.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-358": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-358.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 52,
+    "volume_shape": [
+      52,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-359": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-359.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-36": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-36.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-360": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-360.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-361": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-361.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-362": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-362.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-363": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-363.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-364": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-364.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 50,
+    "volume_shape": [
+      50,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-365": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-365.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-366": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-366.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 53,
+    "volume_shape": [
+      53,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-367": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-367.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-368": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-368.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-369": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-369.nii.gz",
+    "series_name": "CT C",
+    "dicom_count": 28,
+    "volume_shape": [
+      28,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-37": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-37.nii.gz",
+    "series_name": "CT C",
+    "dicom_count": 22,
+    "volume_shape": [
+      22,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-370": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-370.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 272,
+    "volume_shape": [
+      272,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-371": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-371.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 52,
+    "volume_shape": [
+      52,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-372": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-372.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-373": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-373.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-374": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-374.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 55,
+    "volume_shape": [
+      55,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-375": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-375.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 40,
+    "volume_shape": [
+      40,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-376": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-376.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-377": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-377.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-378": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-378.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-379": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-379.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 25,
+    "volume_shape": [
+      25,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-38": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-38.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 69,
+    "volume_shape": [
+      69,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-380": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-380.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-381": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-381.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 96,
+    "volume_shape": [
+      96,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-382": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-382.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-383": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-383.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-384": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-384.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-385": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-385.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 69,
+    "volume_shape": [
+      69,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-386": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-386.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-387": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-387.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 16,
+    "volume_shape": [
+      16,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-388": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-388.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-389": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-389.nii.gz",
+    "series_name": "CT C",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-39": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-39.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-390": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-390.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 222,
+    "volume_shape": [
+      222,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-391": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-391.nii.gz",
+    "series_name": "CT HELICAL",
+    "dicom_count": 163,
+    "volume_shape": [
+      163,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-392": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-392.nii.gz",
+    "series_name": "CT C",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-393": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-393.nii.gz",
+    "series_name": "CT Thin Plain",
+    "dicom_count": 273,
+    "volume_shape": [
+      273,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-394": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-394.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-395": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-395.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-396": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-396.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-397": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-397.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 272,
+    "volume_shape": [
+      272,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-398": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-398.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 54,
+    "volume_shape": [
+      54,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-399": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-399.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 49,
+    "volume_shape": [
+      49,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-4": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-4.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-40": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-40.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-400": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-400.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-401": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-401.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-402": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-402.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-403": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-403.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 29,
+    "volume_shape": [
+      29,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-404": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-404.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-405": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-405.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-406": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-406.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 257,
+    "volume_shape": [
+      257,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-407": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-407.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 272,
+    "volume_shape": [
+      272,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-408": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-408.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 301,
+    "volume_shape": [
+      301,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-409": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-409.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 57,
+    "volume_shape": [
+      57,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-41": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-41.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 176,
+    "volume_shape": [
+      176,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-410": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-410.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-411": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-411.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-412": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-412.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-413": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-413.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 51,
+    "volume_shape": [
+      51,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-414": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-414.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-415": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-415.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-416": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-416.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 254,
+    "volume_shape": [
+      254,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-417": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-417.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 120,
+    "volume_shape": [
+      120,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-418": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-418.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-419": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-419.nii.gz",
+    "series_name": "CT 5mm",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-42": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-42.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-420": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-420.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-421": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-421.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-422": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-422.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-423": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-423.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-424": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-424.nii.gz",
+    "series_name": "CT CECT THIN",
+    "dicom_count": 234,
+    "volume_shape": [
+      234,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-425": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-425.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-426": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-426.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 58,
+    "volume_shape": [
+      58,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-427": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-427.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-428": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-428.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-429": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-429.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 239,
+    "volume_shape": [
+      239,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-43": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-43.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-430": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-430.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-431": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-431.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 96,
+    "volume_shape": [
+      96,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-432": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-432.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 52,
+    "volume_shape": [
+      52,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-433": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-433.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 90,
+    "volume_shape": [
+      90,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-434": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-434.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 33,
+    "volume_shape": [
+      33,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-435": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-435.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 271,
+    "volume_shape": [
+      271,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-436": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-436.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-437": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-437.nii.gz",
+    "series_name": "CT Plain",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-438": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-438.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-439": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-439.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 29,
+    "volume_shape": [
+      29,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-44": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-44.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-440": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-440.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-441": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-441.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 29,
+    "volume_shape": [
+      29,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-442": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-442.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-443": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-443.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 29,
+    "volume_shape": [
+      29,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-444": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-444.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-445": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-445.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 52,
+    "volume_shape": [
+      52,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-446": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-446.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 56,
+    "volume_shape": [
+      56,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-447": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-447.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 156,
+    "volume_shape": [
+      156,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-448": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-448.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 214,
+    "volume_shape": [
+      214,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-449": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-449.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-45": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-45.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 28,
+    "volume_shape": [
+      28,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-450": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-450.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-451": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-451.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-452": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-452.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 225,
+    "volume_shape": [
+      225,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-453": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-453.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-454": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-454.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-455": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-455.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 181,
+    "volume_shape": [
+      181,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-456": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-456.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-457": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-457.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 28,
+    "volume_shape": [
+      28,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-458": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-458.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-459": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-459.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-46": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-46.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 57,
+    "volume_shape": [
+      57,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-460": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-460.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 128,
+    "volume_shape": [
+      128,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-461": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-461.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-462": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-462.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-463": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-463.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-464": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-464.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 12,
+    "volume_shape": [
+      12,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-465": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-465.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-466": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-466.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-467": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-467.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-468": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-468.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 182,
+    "volume_shape": [
+      182,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-469": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-469.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-47": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-47.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 29,
+    "volume_shape": [
+      29,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-470": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-470.nii.gz",
+    "series_name": "CT 5 MM PRE CONTRAST",
+    "dicom_count": 57,
+    "volume_shape": [
+      57,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-471": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-471.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-472": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-472.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-473": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-473.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 55,
+    "volume_shape": [
+      55,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-474": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-474.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 304,
+    "volume_shape": [
+      304,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-475": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-475.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-476": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-476.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 181,
+    "volume_shape": [
+      181,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-477": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-477.nii.gz",
+    "series_name": "CT 0.625mm DMPR on HiRes VS40",
+    "dicom_count": 418,
+    "volume_shape": [
+      418,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-478": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-478.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-479": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-479.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 33,
+    "volume_shape": [
+      33,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-48": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-48.nii.gz",
+    "series_name": "CT 4cc sec 150cc D3D on",
+    "dicom_count": 257,
+    "volume_shape": [
+      257,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-480": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-480.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-481": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-481.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 13,
+    "volume_shape": [
+      13,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-482": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-482.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-483": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-483.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-484": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-484.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 59,
+    "volume_shape": [
+      59,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-485": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-485.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-486": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-486.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-487": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-487.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-488": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-488.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 224,
+    "volume_shape": [
+      224,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-489": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-489.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-49": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-49.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 29,
+    "volume_shape": [
+      29,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-490": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-490.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 46,
+    "volume_shape": [
+      46,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-5": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-5.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 53,
+    "volume_shape": [
+      53,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-50": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-50.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-51": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-51.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 26,
+    "volume_shape": [
+      26,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-52": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-52.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-53": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-53.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-54": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-54.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-55": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-55.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-56": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-56.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-57": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-57.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-58": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-58.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 33,
+    "volume_shape": [
+      33,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-59": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-59.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 10,
+    "volume_shape": [
+      10,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-6": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-6.nii.gz",
+    "series_name": "CT 3.753.75mm Plain",
+    "dicom_count": 98,
+    "volume_shape": [
+      98,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-60": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-60.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-61": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-61.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 58,
+    "volume_shape": [
+      58,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-62": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-62.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-63": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-63.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-64": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-64.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 48,
+    "volume_shape": [
+      48,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-65": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-65.nii.gz",
+    "series_name": "CT 2.55mm",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-66": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-66.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-67": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-67.nii.gz",
+    "series_name": "CT BONE",
+    "dicom_count": 240,
+    "volume_shape": [
+      240,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 1
+  },
+  "CQ500-CT-68": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-68.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 32,
+    "volume_shape": [
+      32,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-69": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-69.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-7": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-7.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 54,
+    "volume_shape": [
+      54,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-70": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-70.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 76,
+    "volume_shape": [
+      76,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-71": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-71.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 233,
+    "volume_shape": [
+      233,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-72": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-72.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 238,
+    "volume_shape": [
+      238,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-73": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-73.nii.gz",
+    "series_name": "CT C",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-74": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-74.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-75": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-75.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 53,
+    "volume_shape": [
+      53,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-76": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-76.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-77": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-77.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-78": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-78.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-79": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-79.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 221,
+    "volume_shape": [
+      221,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-8": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-8.nii.gz",
+    "series_name": "CT HELICAL",
+    "dicom_count": 178,
+    "volume_shape": [
+      178,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-80": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-80.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-81": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-81.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-82": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-82.nii.gz",
+    "series_name": "CT BONE THIN",
+    "dicom_count": 206,
+    "volume_shape": [
+      206,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-83": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-83.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 17,
+    "volume_shape": [
+      17,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-84": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-84.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 272,
+    "volume_shape": [
+      272,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-85": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-85.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 272,
+    "volume_shape": [
+      272,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-86": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-86.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-87": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-87.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 54,
+    "volume_shape": [
+      54,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-88": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-88.nii.gz",
+    "series_name": "CT 5mm POST CONTRAST",
+    "dicom_count": 247,
+    "volume_shape": [
+      247,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-89": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-89.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-9": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-9.nii.gz",
+    "series_name": "CT 55mm Plain",
+    "dicom_count": 36,
+    "volume_shape": [
+      36,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-90": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-90.nii.gz",
+    "series_name": "CT 0.625mm",
+    "dicom_count": 288,
+    "volume_shape": [
+      288,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 2
+  },
+  "CQ500-CT-91": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-91.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 12,
+    "volume_shape": [
+      12,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-92": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-92.nii.gz",
+    "series_name": "CT PLAIN THIN",
+    "dicom_count": 256,
+    "volume_shape": [
+      256,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-93": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-93.nii.gz",
+    "series_name": "CT 0.625 MM HI RES",
+    "dicom_count": 205,
+    "volume_shape": [
+      205,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-94": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-94.nii.gz",
+    "series_name": "CT Plain 3mm",
+    "dicom_count": 52,
+    "volume_shape": [
+      52,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-95": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-95.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 30,
+    "volume_shape": [
+      30,
+      512,
+      512
+    ],
+    "is_positive": true,
+    "ich_votes": 3
+  },
+  "CQ500-CT-96": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-96.nii.gz",
+    "series_name": "CT POST CONTRAST",
+    "dicom_count": 140,
+    "volume_shape": [
+      140,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-97": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-97.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-98": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-98.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 34,
+    "volume_shape": [
+      34,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  },
+  "CQ500-CT-99": {
+    "nii_path": "D:\\桌面\\毕业设计\\ai-empowerment-platform\\data\\ct\\cq500\\volumes\\CQ500-CT-99.nii.gz",
+    "series_name": "CT PRE CONTRAST 5MM STD",
+    "dicom_count": 31,
+    "volume_shape": [
+      31,
+      512,
+      512
+    ],
+    "is_positive": false,
+    "ich_votes": 0
+  }
+}

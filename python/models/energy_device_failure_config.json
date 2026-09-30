@@ -1,0 +1,24 @@
+{
+  "model_file": "energy_device_failure.pkl",
+  "features": [
+    "device_age_years",
+    "operating_hours",
+    "avg_temperature_c",
+    "max_temperature_c",
+    "vibration_level",
+    "power_consumption_kw",
+    "load_factor",
+    "maintenance_frequency",
+    "days_since_last_maintenance",
+    "voltage_stability",
+    "ambient_temperature",
+    "humidity",
+    "age_temp_interaction",
+    "vibration_load",
+    "maintenance_gap"
+  ],
+  "feature_count": 15,
+  "model_type": "xgboost",
+  "auc": 0.6908,
+  "threshold": 0.5
+}

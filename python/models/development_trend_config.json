@@ -1,0 +1,6 @@
+{
+  "model_file": "development_trend_analyzer.pkl",
+  "n_events": 5000,
+  "n_topics": 6,
+  "stage_r2": 0.5214
+}

@@ -1,0 +1,7 @@
+{
+  "model_file": "traffic_accident_risk.pkl",
+  "n_features": 21,
+  "n_samples": 30000,
+  "auc": 0.7902,
+  "threshold": 0.62
+}

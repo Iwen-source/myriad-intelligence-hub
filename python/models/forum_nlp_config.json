@@ -1,0 +1,28 @@
+{
+  "model_file": "forum_nlp_pipeline.pkl",
+  "n_samples": 10000,
+  "quality_mae": 0.534,
+  "quality_r2": 0.558,
+  "classification_accuracy": 1.0,
+  "categories": [
+    "\u6280\u672f\u8ba8\u8bba",
+    "\u9879\u76ee\u6c42\u52a9",
+    "\u7ecf\u9a8c\u5206\u4eab",
+    "\u8d44\u6e90\u63a8\u8350",
+    "\u884c\u4e1a\u52a8\u6001",
+    "\u6c42\u804c\u4ea4\u6d41",
+    "\u5b66\u672f\u95ee\u7b54",
+    "\u95f2\u804a\u704c\u6c34"
+  ],
+  "tfidf_features_quality": 1500,
+  "tfidf_features_classifier": 2500,
+  "meta_features": [
+    "word_count",
+    "char_count",
+    "avg_word_len",
+    "unique_word_ratio",
+    "punctuation_count",
+    "has_numbers",
+    "has_english"
+  ]
+}

@@ -1,0 +1,78 @@
+# --- Secrets & Config ---
+# 排除包含敏感密钥的主配置文件（使用 application.yml.template 作为模板）
+backend/src/main/resources/application-local.yml
+backend/src/main/resources/application.yml
+.env
+*.env.local
+
+# --- Build Artifacts ---
+backend/target/
+frontend/dist/
+frontend/node_modules/
+
+# --- IDE ---
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- Logs ---
+*.log
+*.err
+*.err.log
+startup.log
+backend_start.log
+backend_start.err
+
+# --- Generated / Extracted ---
+backend/_extract*
+backend/_gen*
+backend/_helper*
+backend/_find*
+backend/_env_extracted.txt
+backend/_fin_extracted.txt
+backend/_energy_extracted.txt
+
+# --- Python ---
+python/**/__pycache__/
+python/**/.ipynb_checkpoints/
+python/**/*.egg-info/
+*.pyc
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- 敏感/临时文件（不应入库）---
+login.json
+pseudo_ai_report.md
+backend_console.log
+backend_error.log
+python_server.log
+python_server_err.log
+symptom_train.log
+symptom_train.err
+
+# --- 大体积二进制数据/模型权重（建议改用 Git LFS 或对象存储）---
+data/**/*.nii.gz
+data/**/*.nrrd
+data/**/*.joblib
+python/models/**/*.pth
+python/models/**/*.joblib
+python/models/**/*.pkl
+python/models/**/*.onnx
+python/models/**/*.pmml
+
+# --- 本地独立 MySQL 实例（仅本机，不入库）---
+.mysql-local/
+
+# --- 生成产物 / 归档（不入库）---
+data/ct/output/
+python/models_archive_v1/
+
+
+# --- 大体积原始数据（不入库）---
+python/data/traffic/congestion_train.csv
+python/data/traffic/traffic_flow_data.csv
